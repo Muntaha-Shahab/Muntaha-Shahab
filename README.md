@@ -13,11 +13,11 @@
 
 ---
 
-I build backend systems with Django and Python. My focus is on writing APIs that are clean, secure, and actually maintainable — not just code that ships.
+Backend developer focused on Django and Python. I write code that's readable, secure, and built to last — not just code that runs.
 
-Currently studying Software Engineering at UMT Lahore. Most of my time goes into Django, REST APIs, authentication systems, and database design. I don't just follow tutorials, I break things, figure out why, and rebuild them better.
+SE student at UMT Lahore. I spend my time on things that matter: clean architecture, proper authentication, and APIs that don't break when someone actually uses them.
 
-Looking for a backend or Django developer role where I can contribute from day one.
+Open to backend internships and junior roles.
 
 ---
 
@@ -41,7 +41,7 @@ Looking for a backend or Django developer role where I can contribute from day o
 **[django-user-registration](https://github.com/Muntaha-Shahab/django-user-registration)**
 &nbsp;·&nbsp; `Django` `Python` `SQLite`
 
-Full user authentication system — registration, login, logout, session management, and password hashing. Covers the complete auth flow end-to-end including form validation, secure password storage, session lifecycle, and protected route handling.
+Full user authentication system registration, login, logout, session management, and password hashing. Covers the complete auth flow end-to-end including form validation, secure password storage, session lifecycle, and protected route handling.
 
 ---
 
@@ -55,7 +55,7 @@ Command-line task manager with persistent storage. Handles add, update, complete
 **[Basic_Python-](https://github.com/Muntaha-Shahab/Basic_Python-)**
 &nbsp;·&nbsp; `Python`
 
-Core Python — OOP, data structures, file handling, algorithms. Foundation that everything else is built on.
+Core Python: OOP, data structures, file handling, algorithms. Foundation that everything else is built on.
 
 ---
 
@@ -74,7 +74,7 @@ Core Python — OOP, data structures, file handling, algorithms. Foundation that
 
 **Education**
 
-B.Sc. Software Engineering at University of Management and Technology (UMT), Lahore
+B.S Software Engineering at University of Management and Technology (UMT), Lahore
 
 ---
 
