@@ -12,6 +12,7 @@
 </p>
 
 ---
+## About me
 
 Backend developer focused on Django and Python. I write code that's readable, secure, and built to last, not just code that runs.
 
@@ -21,7 +22,7 @@ Open to backend internships and junior roles.
 
 ---
 
-## Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
