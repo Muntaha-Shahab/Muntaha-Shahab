@@ -13,7 +13,7 @@
 
 ---
 
-I build backend systems with Django and Python. My focus is on writing APIs that are clean, secure, and actually maintainable not just code that ships.
+I build backend systems with Django and Python. My focus is on writing APIs that are clean, secure, and actually maintainable — not just code that ships.
 
 Currently studying Software Engineering at UMT Lahore. Most of my time goes into Django, REST APIs, authentication systems, and database design. I don't just follow tutorials, I break things, figure out why, and rebuild them better.
 
@@ -41,7 +41,7 @@ Looking for a backend or Django developer role where I can contribute from day o
 **[django-user-registration](https://github.com/Muntaha-Shahab/django-user-registration)**
 &nbsp;·&nbsp; `Django` `Python` `SQLite`
 
-Covers the full auth flow end-to-end — form validation, secure password storage, session lifecycle, and protected route handling.
+Full user authentication system — registration, login, logout, session management, and password hashing. Covers the complete auth flow end-to-end including form validation, secure password storage, session lifecycle, and protected route handling.
 
 ---
 
@@ -55,7 +55,7 @@ Command-line task manager with persistent storage. Handles add, update, complete
 **[Basic_Python-](https://github.com/Muntaha-Shahab/Basic_Python-)**
 &nbsp;·&nbsp; `Python`
 
-Core Python: OOP, data structures, file handling, algorithms. Foundation that everything else is built on.
+Core Python — OOP, data structures, file handling, algorithms. Foundation that everything else is built on.
 
 ---
 
@@ -72,20 +72,14 @@ Core Python: OOP, data structures, file handling, algorithms. Foundation that ev
 
 ---
 
-**Right now**
-
-Building a production-ready Django REST API full CRUD, JWT authentication, custom permissions, and Postman documentation. Deploying to Railway. Will be pinned here when it's live.
-
----
-
 **Education**
 
-B.S Software Engineering at University of Management and Technology (UMT), Lahore
+B.Sc. Software Engineering at University of Management and Technology (UMT), Lahore
 
 ---
 
 <p align="center">
-  Open to backend internships and junior Django developer roles
+  Open to backend internships and Django developer roles
   <br/>
   <a href="mailto:itsmuntaha010@gmail.com">itsmuntaha010@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/muntahashahab">LinkedIn</a> &nbsp;·&nbsp; Lahore, Pakistan
 </p>
