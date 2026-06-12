@@ -1,5 +1,5 @@
-<h1 align="center">Muntaha Shahab</h1>
-<p align="center">Backend Developer &nbsp;·&nbsp; Django &nbsp;·&nbsp; Python &nbsp;·&nbsp; REST APIs</p>
+<h1 align="center" style="font-size:3em; font-weight:700;">Muntaha Shahab</h1>
+<h3 align="center">Backend Developer &nbsp;·&nbsp; Django &nbsp;·&nbsp; Python &nbsp;·&nbsp; REST APIs</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/muntahashahab">
@@ -13,7 +13,7 @@
 
 ---
 
-Backend developer focused on Django and Python. I write code that's readable, secure, and built to last — not just code that runs.
+Backend developer focused on Django and Python. I write code that's readable, secure, and built to last, not just code that runs.
 
 SE student at UMT Lahore. I spend my time on things that matter: clean architecture, proper authentication, and APIs that don't break when someone actually uses them.
 
@@ -21,7 +21,7 @@ Open to backend internships and junior roles.
 
 ---
 
-**Stack**
+## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -36,12 +36,12 @@ Open to backend internships and junior roles.
 
 ---
 
-**Projects**
+## Projects
 
 **[django-user-registration](https://github.com/Muntaha-Shahab/django-user-registration)**
 &nbsp;·&nbsp; `Django` `Python` `SQLite`
 
-Full user authentication system registration, login, logout, session management, and password hashing. Covers the complete auth flow end-to-end including form validation, secure password storage, session lifecycle, and protected route handling.
+Full user authentication system: registration, login, logout, session management, and password hashing. Covers the complete auth flow end-to-end including form validation, secure password storage, session lifecycle, and protected route handling.
 
 ---
 
@@ -55,11 +55,11 @@ Command-line task manager with persistent storage. Handles add, update, complete
 **[Basic_Python-](https://github.com/Muntaha-Shahab/Basic_Python-)**
 &nbsp;·&nbsp; `Python`
 
-Core Python: OOP, data structures, file handling, algorithms. Foundation that everything else is built on.
+**Core Python:**  OOP, data structures, file handling, algorithms. Foundation that everything else is built on.
 
 ---
 
-**GitHub Stats**
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muntaha-Shahab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -72,14 +72,14 @@ Core Python: OOP, data structures, file handling, algorithms. Foundation that ev
 
 ---
 
-**Education**
+## Education
 
 B.S Software Engineering at University of Management and Technology (UMT), Lahore
 
 ---
 
 <p align="center">
-  Open to backend internships and Django developer roles
+  Open to backend internships and junior Django developer roles
   <br/>
   <a href="mailto:itsmuntaha010@gmail.com">itsmuntaha010@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/muntahashahab">LinkedIn</a> &nbsp;·&nbsp; Lahore, Pakistan
 </p>
