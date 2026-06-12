@@ -13,7 +13,7 @@
 
 ---
 
-SE student at UMT Lahore. I spend most of my time in the backend — Django, Python, REST APIs. Started with basic scripts, now building full auth systems and API-driven apps.
+SE student at UMT Lahore. I spend most of my time in the backend Django, Python, REST APIs. Started with basic scripts, now building full auth systems and API-driven apps.
 
 I care a lot about writing code that's readable, not just code that runs. Still learning, but I'm consistent about it.
 
@@ -39,10 +39,10 @@ Currently focused on getting better at Django REST Framework and deploying real 
 **Projects**
 
 **[django-user-registration](https://github.com/Muntaha-Shahab/django-user-registration)**
-Full user auth system in Django — registration, login, logout, session handling, password hashing. Built to understand how authentication actually works under the hood, not just copy-paste it.
+Full user auth system in Django registration, login, logout, session handling, password hashing. Built to understand how authentication actually works under the hood, not just copy-paste it.
 
 **[task-manager-cli](https://github.com/Muntaha-Shahab/task-manager-cli)**
-CLI task manager in Python. Add, complete, delete tasks — data persists between sessions via JSON. Simple project, but it taught me how to structure a Python app properly.
+CLI task manager in Python. Add, complete, delete tasks data persists between sessions via JSON. Simple project, but it taught me how to structure a Python app properly.
 
 **[Basic_Python-](https://github.com/Muntaha-Shahab/Basic_Python-)**
 Where it all started. OOP, file handling, algorithms, data structures. Still keep this around because it shows where I came from.
@@ -72,7 +72,7 @@ Where it all started. OOP, file handling, algorithms, data structures. Still kee
 
 **Education**
 
-B.Sc. Software Engineering — University of Management and Technology (UMT), Lahore
+B.S Software Engineering — University of Management and Technology (UMT), Lahore
 
 ---
 
