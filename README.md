@@ -1,28 +1,22 @@
 <div align="center">
 
-# Muntaha Shahab
-
-**Full Stack Developer** — Django · Python · REST APIs · JavaScript
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Muntaha%20Shahab&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend%20Developer%20%E2%80%94%20Django%20%C2%B7%20Python%20%C2%B7%20REST%20APIs%20%C2%B7%20JavaScript&descAlignY=62&descSize=16&descColor=c9b8ff" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muntahashahab)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:itsmuntaha010@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Muntaha-Shahab&style=flat-square&color=6e40c9&label=profile+views)](https://github.com/Muntaha-Shahab)
+![Profile Views](https://komarev.com/ghpvc/?username=Muntaha-Shahab&style=flat-square&color=302b63&label=profile+views)
 
 </div>
 
 ---
 
-### Who I am
+SE student at UMT Lahore. I build backends that hold up — clean auth flows, proper REST APIs, and Django architecture that doesn't fall apart under pressure.
 
-SE student at UMT Lahore. I build things that actually work — clean backends, proper APIs, and interfaces that make sense to the person using them.
+Currently building Haqdaar, an AI-powered legal aid platform as my final year project.
 
-Currently deep into Django and REST APIs. Slowly making everything I touch more readable than I found it.
-
-> *Open to internships and junior roles — backend, full stack, or anything interesting.*
+Open to backend internships and junior developer roles.
 
 ---
-
-### What I work with
 
 **Backend**
 
@@ -46,62 +40,42 @@ Currently deep into Django and REST APIs. Slowly making everything I touch more 
 
 ---
 
-### Projects
+**Projects**
 
 **[Haqdaar — AI Legal Aid Platform](https://github.com/Muntaha-Shahab)**
 `Django` `Python` `AI/ML` `REST APIs`
-
-Final year project. AI-powered platform that makes legal help accessible to people who can't afford a lawyer. Built the backend from scratch — authentication, case management, and AI integration.
+Final year project. AI platform that makes legal help accessible to people who can't afford a lawyer. Built the backend from scratch.
 
 ---
 
-**[Django User Authentication System](https://github.com/Muntaha-Shahab/django-user-registration)**
+**[Django Auth System](https://github.com/Muntaha-Shahab/django-user-registration)**
 `Django` `Python` `SQLite`
-
-Complete auth flow: registration, login, logout, session management, password hashing, form validation, and protected routes. Built to understand Django's security layer end-to-end.
+Complete auth flow — register, login, logout, session management, password hashing, form validation, protected routes.
 
 ---
 
 **[Task Manager CLI](https://github.com/Muntaha-Shahab/task-manager-cli)**
 `Python` `JSON`
-
-Command-line task manager with persistent storage. Add, update, complete, delete — all from the terminal. Focused on clean Python architecture and separation of concerns.
+Terminal task manager with persistent storage. Clean Python architecture, proper separation of concerns.
 
 ---
 
 **[Python Fundamentals](https://github.com/Muntaha-Shahab/Basic_Python-)**
 `Python`
-
 OOP, data structures, file handling, algorithms. The foundation everything else is built on.
 
 ---
 
-### Stats
+**Education**
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muntaha-Shahab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muntaha-Shahab&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muntaha-Shahab&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-### Education
-
-**B.S. Software Engineering** — University of Management and Technology, Lahore *(in progress)*
+B.S. Software Engineering — University of Management and Technology, Lahore *(in progress)*
 
 ---
 
 <div align="center">
 
-**Let's connect**
+itsmuntaha010@gmail.com · [LinkedIn](https://linkedin.com/in/muntahashahab) · Lahore, Pakistan
 
-[itsmuntaha010@gmail.com](mailto:itsmuntaha010@gmail.com) · [LinkedIn](https://linkedin.com/in/muntahashahab) · Lahore, Pakistan
-
-*Available for backend internships and junior developer roles*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
 </div>
