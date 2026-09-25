@@ -10,7 +10,7 @@
 
 ---
 
-SE student at UMT Lahore. I build backends that hold up — clean auth flows, proper REST APIs, and Django architecture that doesn't fall apart under pressure.
+SE student at UMT Lahore. I build backends that hold up clean auth flows, proper REST APIs, and Django architecture that doesn't fall apart under pressure.
 
 Currently building Haqdaar, an AI-powered legal aid platform as my final year project.
 
@@ -50,7 +50,7 @@ Final year project. AI platform that makes legal help accessible to people who c
 
 **[Django Auth System](https://github.com/Muntaha-Shahab/django-user-registration)**
 `Django` `Python` `SQLite`
-Complete auth flow — register, login, logout, session management, password hashing, form validation, protected routes.
+Complete auth flow register, login, logout, session management, password hashing, form validation, protected routes.
 
 ---
 
