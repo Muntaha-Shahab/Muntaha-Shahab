@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="176" viewBox="0 0 410 176" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Fira Code',Consolas,Menlo,monospace">
+<rect x="0.5" y="0.5" width="409" height="175" rx="14" fill="#0f1623" stroke="#1f2937"/>
+<line x1="16" y1="1.5" x2="394" y2="1.5" stroke="#fbbf24" stroke-width="3" stroke-linecap="round"/>
+<circle cx="30" cy="38" r="5" fill="#fbbf24"/>
+<text x="44" y="43" font-size="16" font-weight="700" fill="#e5e7eb">ResumeBuilder-Web</text>
+<text x="24" y="72" font-size="12.5" fill="#9ca3af">Resume builder with live preview, 10</text><text x="24" y="92" font-size="12.5" fill="#9ca3af">templates, draft autosave and print-to-PDF.</text>
+<rect x="24" y="106" width="98" height="24" rx="12" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.45"/><text x="73.0" y="122" font-size="12" fill="#fbbf24" text-anchor="middle">JavaScript</text><rect x="130" y="106" width="91" height="24" rx="12" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.45"/><text x="175.5" y="122" font-size="12" fill="#fbbf24" text-anchor="middle">Bootstrap</text><rect x="229" y="106" width="46" height="24" rx="12" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.45"/><text x="252.0" y="122" font-size="12" fill="#fbbf24" text-anchor="middle">CSS</text>
+<line x1="24" y1="146" x2="386" y2="146" stroke="#1f2937"/>
+<text x="24" y="164" font-size="11" fill="#4b5563">github.com/Muntaha-Shahab/ResumeBuilder-Web</text>
+</svg>

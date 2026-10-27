@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="176" viewBox="0 0 410 176" font-family="ui-monospace,SFMono-Regular,'JetBrains Mono','Fira Code',Consolas,Menlo,monospace">
+<rect x="0.5" y="0.5" width="409" height="175" rx="14" fill="#0f1623" stroke="#1f2937"/>
+<line x1="16" y1="1.5" x2="394" y2="1.5" stroke="#fb923c" stroke-width="3" stroke-linecap="round"/>
+<circle cx="30" cy="38" r="5" fill="#fb923c"/>
+<text x="44" y="43" font-size="16" font-weight="700" fill="#e5e7eb">FolioVerse</text>
+<text x="24" y="72" font-size="12.5" fill="#9ca3af">Role-based Android library app with email and</text><text x="24" y="92" font-size="12.5" fill="#9ca3af">Google Sign-In, admin and reader portals.</text>
+<rect x="24" y="106" width="54" height="24" rx="12" fill="#fb923c" fill-opacity="0.12" stroke="#fb923c" stroke-opacity="0.45"/><text x="51.0" y="122" font-size="12" fill="#fb923c" text-anchor="middle">Java</text><rect x="86" y="106" width="84" height="24" rx="12" fill="#fb923c" fill-opacity="0.12" stroke="#fb923c" stroke-opacity="0.45"/><text x="128.0" y="122" font-size="12" fill="#fb923c" text-anchor="middle">Firebase</text><rect x="178" y="106" width="91" height="24" rx="12" fill="#fb923c" fill-opacity="0.12" stroke="#fb923c" stroke-opacity="0.45"/><text x="223.5" y="122" font-size="12" fill="#fb923c" text-anchor="middle">Firestore</text>
+<line x1="24" y1="146" x2="386" y2="146" stroke="#1f2937"/>
+<text x="24" y="164" font-size="11" fill="#4b5563">Android app  ·  Java + Firebase</text>
+</svg>
