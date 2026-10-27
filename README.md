@@ -1,12 +1,10 @@
+<img src="assets/header.svg" alt="Muntaha Shahab, Backend Developer (Python / Django). Terminal-style header: python manage.py runserver" width="100%" />
+
 <div align="center">
 
-# Muntaha Shahab
-
-**Backend Developer API** &nbsp;|&nbsp; Python &middot; Django &middot; REST &middot; PostgreSQL
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Backend+Developer+(Python+%2F+Django);Building+HaqDaar%3A+AI-powered+legal+aid+platform;REST+APIs%2C+JWT+Auth%2C+PostgreSQL;Open+to+backend+internships+and+junior+roles" alt="Typing animation" />
-
 Status: `200 OK` &nbsp;|&nbsp; Version: `1.0` &nbsp;|&nbsp; Region: `Lahore, PK`
+
+[LinkedIn](https://linkedin.com/in/muntahashahab) &nbsp;|&nbsp; [itsmuntaha010@gmail.com](mailto:itsmuntaha010@gmail.com)
 
 </div>
 
@@ -15,7 +13,7 @@ Status: `200 OK` &nbsp;|&nbsp; Version: `1.0` &nbsp;|&nbsp; Region: `Lahore, PK`
 | [`GET /about`](#get-about) | Who I am and what I'm looking for |
 | [`GET /projects`](#get-projects) | What I've built |
 | [`GET /stack`](#get-stack) | Technologies I work with |
-| [`GET /activity`](#get-activity) | Live GitHub contribution graph |
+| [`GET /activity`](#get-activity) | GitHub contribution graph, updated daily |
 | [`GET /education`](#get-education) | Academic background |
 | [`POST /contact`](#post-contact) | How to reach me |
 
@@ -41,70 +39,32 @@ Status: `200 OK` &nbsp;|&nbsp; Version: `1.0` &nbsp;|&nbsp; Region: `Lahore, PK`
 
 ## `GET /projects`
 
-### Featured: HaqDaar
+### Featured
 
-> **HaqDaar: AI-Powered Legal Aid Platform** &nbsp;`in development` &nbsp;`team of 3` &nbsp;`final year project`
->
-> Bilingual (Urdu/English) platform that helps citizens in Pakistan understand their legal rights and connect with volunteer lawyers and NGOs.
->
-> **Stack:** Django, Django REST Framework, PostgreSQL, JWT, Next.js, Tailwind CSS
->
-> **My part:**
-> - REST APIs for admin citizen management: search, filters, block/unblock, soft delete and restore, CSV export, audit log
-> - PostgreSQL models for citizens and cases: assignments, deadlines, activity, notes, documents
-> - JWT authentication between the Next.js frontend and the backend
-> - Migrated a 240-file frontend to Next.js, manage the GitHub organization, review teammates' pull requests
+<img src="assets/haqdaar.svg" alt="HaqDaar: AI-powered legal aid platform. Final year project, team of 3, in development. Django, Django REST Framework, PostgreSQL, JWT, Next.js, Tailwind CSS." width="100%" />
 
 ### Repositories
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <a href="https://github.com/Muntaha-Shahab/django-student-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muntaha-Shahab&repo=django-student-management-system&theme=transparent&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7&border_color=8b949e" alt="django-student-management-system" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Muntaha-Shahab/django-skill-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muntaha-Shahab&repo=django-skill-management-system&theme=transparent&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7&border_color=8b949e" alt="django-skill-management-system" />
-      </a>
-    </td>
+    <td width="50%"><a href="https://github.com/Muntaha-Shahab/django-student-management-system"><img src="assets/student.svg" alt="django-student-management-system" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/Muntaha-Shahab/django-skill-management-system"><img src="assets/skills.svg" alt="django-skill-management-system" width="100%" /></a></td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/Muntaha-Shahab/django-profile-management-portal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muntaha-Shahab&repo=django-profile-management-portal&theme=transparent&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7&border_color=8b949e" alt="django-profile-management-portal" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Muntaha-Shahab/ResumeBuilder-Web">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muntaha-Shahab&repo=ResumeBuilder-Web&theme=transparent&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7&border_color=8b949e" alt="ResumeBuilder-Web" />
-      </a>
-    </td>
+    <td width="50%"><a href="https://github.com/Muntaha-Shahab/django-profile-management-portal"><img src="assets/profile.svg" alt="django-profile-management-portal" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/Muntaha-Shahab/ResumeBuilder-Web"><img src="assets/resume.svg" alt="ResumeBuilder-Web" width="100%" /></a></td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/Muntaha-Shahab/task-manager-cli">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muntaha-Shahab&repo=task-manager-cli&theme=transparent&title_color=2F81F7&text_color=8b949e&icon_color=2F81F7&border_color=8b949e" alt="task-manager-cli" />
-      </a>
-    </td>
-    <td></td>
+    <td width="50%"><a href="https://github.com/Muntaha-Shahab/task-manager-cli"><img src="assets/taskcli.svg" alt="task-manager-cli" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/Muntaha-Shahab?tab=repositories"><img src="assets/folioverse.svg" alt="FolioVerse" width="100%" /></a></td>
   </tr>
 </table>
-
-| Project | What it does | Stack |
-| --- | --- | --- |
-| Student Management System | Email account activation, login, dashboard, add and search student records | Django, SQLite |
-| Skill Management System | Per-user dashboard to track skills, proficiency and years of experience | Django, SQLite |
-| Profile Management Portal | Registration, activation, login and profile page with picture upload | Django, Pillow |
-| CV Builder | Live preview, 10 templates, draft autosave, print-to-PDF export | JavaScript, Bootstrap |
-| Task Manager CLI | Terminal task manager with persistent JSON storage | Python |
 
 ---
 
 ## `GET /stack`
 
-<img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,django,nextjs,tailwind,bootstrap,postgres,mysql,sqlite,git,github,linux,androidstudio,sklearn" alt="Tech stack icons" />
+<img src="assets/stack.svg" alt="Languages: Python, C++, Java, JavaScript, HTML, CSS. Backend: Django, Django REST Framework, REST APIs, JWT. Frontend: Next.js, Bootstrap, Tailwind CSS. Databases: PostgreSQL, MySQL, SQLite, Firestore. ML: scikit-learn, Jupyter. Tools: Git, GitHub, Linux, Selenium, Android Studio." width="100%" />
 
 ```json
 {
@@ -121,11 +81,7 @@ Status: `200 OK` &nbsp;|&nbsp; Version: `1.0` &nbsp;|&nbsp; Region: `Lahore, PK`
 
 ## `GET /activity`
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Muntaha-Shahab&bg_color=0d1117&color=58A6FF&line=2F81F7&point=FFFFFF&area=true&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Muntaha-Shahab&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=true" />
-  <img alt="GitHub contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Muntaha-Shahab&bg_color=0d1117&color=58A6FF&line=2F81F7&point=FFFFFF&area=true&hide_border=true" />
-</picture>
+<img src="assets/activity.svg" alt="GitHub contribution graph for the last year" width="100%" />
 
 ---
 
