@@ -1,81 +1,126 @@
-<div align="center">
+# Muntaha Shahab
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Muntaha%20Shahab&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Backend%20Developer%20%E2%80%94%20Django%20%C2%B7%20Python%20%C2%B7%20REST%20APIs%20%C2%B7%20JavaScript&descAlignY=62&descSize=16&descColor=c9b8ff" width="100%"/>
+**Backend Developer API** &nbsp;|&nbsp; Python &middot; Django &middot; REST &middot; PostgreSQL
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muntahashahab)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:itsmuntaha010@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Muntaha-Shahab&style=flat-square&color=302b63&label=profile+views)
+> Documentation for a backend developer who builds secure, well-structured APIs.
+> Status: `200 OK` &nbsp;|&nbsp; Version: `1.0` &nbsp;|&nbsp; Region: `Lahore, PK`
 
-</div>
-
----
-
-SE student at UMT Lahore. I build backends that hold up clean auth flows, proper REST APIs, and Django architecture that doesn't fall apart under pressure.
-
-Currently building Haqdaar, an AI-powered legal aid platform as my final year project.
-
-Open to backend internships and junior developer roles.
+| Endpoint | Description |
+| --- | --- |
+| [`GET /about`](#get-about) | Who I am and what I'm looking for |
+| [`GET /projects`](#get-projects) | What I've built |
+| [`GET /stack`](#get-stack) | Technologies I work with |
+| [`GET /education`](#get-education) | Academic background |
+| [`GET /certifications`](#get-certifications) | Courses and certifications |
+| [`POST /contact`](#post-contact) | How to reach me |
 
 ---
 
-**Backend**
+## `GET /about`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+```json
+{
+  "name": "Muntaha Shahab",
+  "role": "Backend Developer (Python / Django)",
+  "focus": ["REST APIs", "Authentication", "Database design"],
+  "currently_building": "HaqDaar, AI-powered legal aid platform",
+  "languages": ["Urdu", "English"],
+  "location": "Lahore, Pakistan",
+  "status": "open_to_work",
+  "looking_for": ["backend internships", "junior developer roles"],
+  "work_mode": ["onsite (Lahore)", "remote"]
+}
+```
 
 ---
 
-**Projects**
+## `GET /projects`
 
-**[Haqdaar — AI Legal Aid Platform](https://github.com/Muntaha-Shahab)**
-`Django` `Python` `AI/ML` `REST APIs`
-Final year project. AI platform that makes legal help accessible to people who can't afford a lawyer. Built the backend from scratch.
+### Featured: HaqDaar
+
+```json
+{
+  "name": "HaqDaar",
+  "type": "Final year project (team of 3)",
+  "status": "in_development",
+  "summary": "Bilingual (Urdu/English) platform that helps citizens in Pakistan understand their legal rights and connect with volunteer lawyers and NGOs.",
+  "stack": ["Django", "Django REST Framework", "PostgreSQL", "JWT", "Next.js", "Tailwind CSS"],
+  "my_contributions": [
+    "REST APIs for admin citizen management: search, filters, block/unblock, soft delete and restore, CSV export, audit log",
+    "PostgreSQL models for citizens and cases: assignments, deadlines, activity, notes, documents",
+    "JWT authentication between the Next.js frontend and the backend",
+    "Migrated a 240-file frontend to Next.js",
+    "Manage the GitHub organization and review teammates' pull requests"
+  ]
+}
+```
+
+### Other projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Student Management System](https://github.com/Muntaha-Shahab/django-student-management-system) | Student records with email account activation, login, dashboard, add and search | Django, SQLite |
+| [Skill Management System](https://github.com/Muntaha-Shahab/django-skill-management-system) | Per-user dashboard to track skills, proficiency and years of experience | Django, SQLite |
+| [Profile Management Portal](https://github.com/Muntaha-Shahab/django-profile-management-portal) | Registration, activation, login and profile page with picture upload | Django, Pillow |
+| [CV Builder](https://github.com/Muntaha-Shahab/ResumeBuilder-Web) | Resume builder with live preview, 10 templates, autosave and PDF export | JavaScript, Bootstrap |
+| [Task Manager CLI](https://github.com/Muntaha-Shahab/task-manager-cli) | Terminal task manager with persistent JSON storage | Python |
 
 ---
 
-**[Django Auth System](https://github.com/Muntaha-Shahab/django-user-registration)**
-`Django` `Python` `SQLite`
-Complete auth flow register, login, logout, session management, password hashing, form validation, protected routes.
+## `GET /stack`
+
+```json
+{
+  "languages": ["Python", "C++", "Java", "JavaScript", "HTML", "CSS"],
+  "backend": ["Django", "Django REST Framework", "REST APIs", "JWT"],
+  "frontend": ["Next.js", "Bootstrap", "Tailwind CSS"],
+  "databases": ["PostgreSQL", "MySQL", "SQLite", "Cloud Firestore"],
+  "machine_learning": ["scikit-learn", "Jupyter"],
+  "tools": ["Git", "GitHub", "Linux", "Selenium", "Android Studio"]
+}
+```
 
 ---
 
-**[Task Manager CLI](https://github.com/Muntaha-Shahab/task-manager-cli)**
-`Python` `JSON`
-Terminal task manager with persistent storage. Clean Python architecture, proper separation of concerns.
+## `GET /education`
+
+```json
+{
+  "degree": "B.S. Software Engineering",
+  "institution": "University of Management and Technology (UMT), Lahore",
+  "period": "Mar 2023 - Feb 2027 (expected)",
+  "focus_areas": ["Database Systems", "Software Architecture", "Information Security", "Machine Learning", "NLP"]
+}
+```
 
 ---
 
-**[Python Fundamentals](https://github.com/Muntaha-Shahab/Basic_Python-)**
-`Python`
-OOP, data structures, file handling, algorithms. The foundation everything else is built on.
+## `GET /certifications`
+
+```json
+[
+  { "name": "JavaScript Mastery Bootcamp", "issuer": "Kohaq", "date": "Nov 2025" }
+]
+```
 
 ---
 
-**Education**
+## `POST /contact`
 
-B.S. Software Engineering — University of Management and Technology, Lahore *(in progress)*
+```
+Content-Type: application/json
+```
 
----
+[LinkedIn](https://linkedin.com/in/muntahashahab) &nbsp;|&nbsp; [itsmuntaha010@gmail.com](mailto:itsmuntaha010@gmail.com)
 
-<div align="center">
+```json
+{ "status": 202, "message": "Accepted. I reply within a day or two." }
+```
 
-itsmuntaha010@gmail.com · [LinkedIn](https://linkedin.com/in/muntahashahab) · Lahore, Pakistan
+<!--
+FUTURE ENDPOINTS (uncomment and fill in as they become true):
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
-
-</div>
+## `GET /achievements`
+## `GET /open-source`
+## `GET /experience`
+-->
